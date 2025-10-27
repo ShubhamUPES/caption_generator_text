@@ -1,4 +1,3 @@
-﻿# caption_generator_text
 # 🪄 AI Caption Generator (Offline)
 
 This is an **offline AI-powered caption generator** built using **LangChain** and **TinyLlama** (via Ollama).  
@@ -15,4 +14,5 @@ python -m venv .venv
 .venv\Scripts\activate
 pip install -r requirements.txt
 python app.py
+
 
