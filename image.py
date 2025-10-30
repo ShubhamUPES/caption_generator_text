@@ -78,7 +78,7 @@ if base64_image:
         
         print("\n✨ --- Generated Caption --- ✨\n")
         print(response.content)
-
+#pip install --upgrade langchain-google-genai pillow
     except Exception as e:
         print(f"\n❌ Error during model invocation: {e}")
 else:
