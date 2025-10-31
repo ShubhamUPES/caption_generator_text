@@ -111,7 +111,7 @@ def main():
     print("====== 🚀 ORCHESTRATOR WORKFLOW STARTED 🚀 ======\n")
     
     # WARNING: Do not share this code or post it online with your key in it.
-    API_KEY = "AIzaSyDLxUJmGnjcgezJjnJZ80Wng-ughd6rTuE"
+    API_KEY = ""
     
     shubham_chain = create_shubham_enhancer_chain()
     if not shubham_chain:
